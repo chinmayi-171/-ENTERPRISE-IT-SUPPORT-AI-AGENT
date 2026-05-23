@@ -1,0 +1,38 @@
+[
+    {
+        "ticket_id": "INC0001",
+        "username": "rakshap04",
+        "issue": "Outlook not syncing emails after password change",
+        "team": "Messaging Team",
+        "priority": "Medium",
+        "category": "Email",
+        "status": "RESOLVED"
+    },
+    {
+        "ticket_id": "INC0002",
+        "username": "rakshap04",
+        "issue": "VPN access failure affecting all remote employees during office hours",
+        "team": "Network Support",
+        "priority": "Medium",
+        "category": "Network",
+        "status": "RESOLVED"
+    },
+    {
+        "ticket_id": "INC0003",
+        "username": "rakshap04",
+        "issue": "Office printer showing offline status",
+        "team": "IT Helpdesk",
+        "priority": "Medium",
+        "category": "General",
+        "status": "RESOLVED"
+    },
+    {
+        "ticket_id": "INC0004",
+        "username": "rakshap04",
+        "issue": "Suspicious login detected in employee account",
+        "team": "Identity Support",
+        "priority": "Medium",
+        "category": "Access Issue",
+        "status": "OPEN"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "username": "rakshap04",
+        "issue": "Outlook not syncing emails after password change",
+        "solutions": [
+            "1. Root Cause\n- Password change not synced with Outlook server\n- Incorrect Outlook profile setup\n\n2. Solution Steps\n1. Verify Outlook profile setup\n2. Re-enter password in Outlook settings\n3. Check for pending updates in Outlook\n\n3. Expected Outcome\n- Outlook emails synced successfully\n- No data loss",
+            "1. Alternative Solution Steps\n1. Run Microsoft Outlook in safe mode\n2. Reset Outlook sync settings to default\n3. Check for conflicting third-party add-ins\n4. Verify Microsoft account credentials in Outlook settings\n\n2. Expected Result\n- Email syncing resumes successfully\n- No data loss or corruption"
+        ],
+        "attempts": 2,
+        "status": "ESCALATED",
+        "classification": {
+            "category": "Email",
+            "priority": "Medium",
+            "team": "Messaging Team"
+        }
+    },
+    {
+        "username": "rakshap04",
+        "issue": "VPN access failure affecting all remote employees during office hours",
+        "solutions": [
+            "1. Root Cause\n- VPN access failure due to inadequate encryption\n- Network overload or configuration errors\n- Recent software updates affecting network configuration\n\n2. Solution Steps\n1. Review VPN encryption settings and update if necessary\n2. Check network configuration and make adjustments if needed\n3. Restart VPN router and servers\n4. Verify internet speed and network connectivity\n\n3. Expected Outcome\n- VPN access restored for remote employees\n- Connectivity issues resolved for project management meetings\n- Digital marketing strategy unaffected by VPN issues",
+            "1. Alternative Solution Steps\n1. Run VPN diagnostic tool to identify specific errors\n2. Check VPN client version compatibility with server\n3. Disable firewall rules temporarily\n4. Update VPN client software to latest version\n\n2. Expected Result\n- VPN access restored for remote employees\n- Connectivity issues resolved for project management meetings\n- Digital marketing strategy unaffected by VPN issues"
+        ],
+        "attempts": 2,
+        "status": "ESCALATED",
+        "classification": {
+            "category": "Network",
+            "priority": "Medium",
+            "team": "Network Support"
+        }
+    },
+    {
+        "username": "rakshap04",
+        "issue": "Office printer showing offline status",
+        "solutions": [
+            "1. Root Cause\n- Printer driver outdated or corrupted\n- Network connectivity issues\n\n2. Solution Steps\n1. Restart printer and computer\n2. Update printer drivers\n3. Check network cables and connections\n4. Restart printer and computer again\n\n3. Expected Outcome\n- Printer shows online status\n- Smooth printing operations",
+            "1. Alternative Solution Steps\n1. Run printer's built-in diagnostic tool\n2. Disable and re-enable printer in device manager\n3. Check printer's IP address and ensure it matches the office network's subnet\n4. Run a system file checker (SFC) scan\n\n2. Expected Result\n- Printer shows online status\n- Printing operations resume normally"
+        ],
+        "attempts": 2,
+        "status": "ESCALATED",
+        "classification": {
+            "category": "General",
+            "priority": "Medium",
+            "team": "IT Helpdesk"
+        }
+    },
+    {
+        "username": "rakshap04",
+        "issue": "Suspicious login detected in employee account",
+        "solutions": [
+            "1. Root Cause\n- Suspicious login detected in employee account\n- Possible causes: \n  1. Phishing attempt\n  2. Weak password\n  3. Unauthorized access attempt\n\n2. Solution Steps\n1. Monitor account activity\n2. Change employee password\n3. Enable 2-factor authentication\n4. Review login logs for suspicious activity\n\n3. Expected Outcome\n- Secure employee account\n- Prevent future unauthorized access\n- Ensure employee data protection",
+            "1. Alternative Solution Steps\n1. Conduct employee awareness training on phishing threats\n2. Implement password policy enforcement\n3. Configure account lockout policy\n4. Review employee login history for anomalies\n\n2. Expected Result\n- Reduced risk of unauthorized access\n- Improved employee security awareness\n- Enhanced account protection"
+        ],
+        "attempts": 2,
+        "status": "ESCALATED",
+        "classification": {
+            "category": "Access Issue",
+            "priority": "Medium",
+            "team": "Identity Support"
+        }
+    }
+]
